@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "ourStory": "Ons verhaal",
+    "gettingThere": "Route",
+    "gifts": "Cadeaus",
+    "rsvp": "RSVP",
+    "skipToContent": "Naar de inhoud",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "language": "Taal"
+  },
+  "home": {
+    "gettingMarried": "We gaan trouwen!",
+    "ceremony": "Ceremonie",
+    "reception": "Feest",
+    "walkTitle": "Parkeren en een klein stukje lopen",
+    "walkText": "Bij de locatie kun je niet parkeren. Zet je auto op de parkeerplaats en geniet van een wandeling van {{minutes}} minuten naar ons toe.",
+    "walkButton": "Zo kom je er",
+    "storyTitle": "Zo is het allemaal begonnen",
+    "joinUs": "Vier het met ons",
+    "hopeYouCanMakeIt": "We hopen dat je erbij bent!"
+  },
+  "story": {
+    "paragraphs": [
+      "Hier komt jullie verhaal: hoe jullie elkaar ontmoetten, de eerste date, het aanzoek.",
+      "Voeg zoveel alinea’s toe als je wilt."
+    ]
+  },
+  "gettingThere": {
+    "subtitle": "Parkeren, dan {{minutes}} minuten lopen",
+    "intro": "De locatie is niet bereikbaar met de auto. Parkeer op de parkeerplaats hieronder en loop het laatste stukje.",
+    "parkTitle": "Parkeer de auto",
+    "parkingNotes": [
+      "Parkeren is gratis.",
+      "Rij als het kan samen, er zijn maar weinig plekken."
+    ],
+    "parkButton": "Route naar de parkeerplaats",
+    "mapTitle": "Kaart van de parkeerplaats",
+    "walkTitle": "Ongeveer {{minutes}} minuten lopen",
+    "walkText": "Vanaf de parkeerplaats is het een makkelijke wandeling van ongeveer {{minutes}} minuten naar de locatie. Volg de bordjes die we langs het pad zetten.",
+    "walkButton": "Wandelroute",
+    "arriveTitle": "Je bent er!",
+    "arriveButton": "Openen in Google Maps",
+    "tipsTitle": "Goed om te weten",
+    "tips": [
+      "Draag schoenen waarop je kunt lopen, of neem een paar mee om te wisselen.",
+      "Op de terugweg is het donker, dus neem een zaklamp mee of gebruik het lampje van je telefoon.",
+      "Is lopen lastig voor je? Laat het ons weten, dan zorgen we dat je bij de locatie kunt worden afgezet."
+    ]
+  },
+  "gifts": {
+    "intro": "Dat je erbij bent is het mooiste cadeau. Wil je ons toch iets geven, dan zijn we heel blij met een bijdrage aan onze huwelijksreis.",
+    "cardTitle": "Huwelijksreis",
+    "accountHolder": "Rekeninghouder",
+    "iban": "IBAN",
+    "copy": "IBAN kopiëren",
+    "copied": "Gekopieerd!",
+    "open": "Envelop openen",
+    "close": "Envelop sluiten",
+    "hint": "Beweeg over de envelop of tik erop om hem te openen.",
+    "note": "Liever iets in een envelop? Op het feest staat een kaartenbus."
+  },
+  "rsvp": {
+    "subtitle": "We hopen dat je erbij bent!",
+    "intro": "Laat je ons weten of je komt?",
+    "introDeadline": "Laat je ons vóór {{deadline}} weten of je komt?",
+    "formTitle": "RSVP-formulier",
+    "loading": "Laden…",
+    "notLoading": "Laadt het formulier niet?",
+    "openInNewTab": "Open het in een nieuw tabblad",
+    "comingSoon": "Het RSVP-formulier verschijnt hier binnenkort."
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "text": "Deze pagina bestaat niet.",
+    "back": "Terug naar home"
+  },
+  "footer": {
+    "questions": "Vragen?",
+    "emailUs": "Mail ons"
+  }
+}

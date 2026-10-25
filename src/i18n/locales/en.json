@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "ourStory": "Our Story",
+    "gettingThere": "Getting There",
+    "gifts": "Gifts",
+    "rsvp": "RSVP",
+    "skipToContent": "Skip to Content",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu",
+    "language": "Language"
+  },
+  "home": {
+    "gettingMarried": "We’re Getting Married!",
+    "ceremony": "Ceremony",
+    "reception": "Reception",
+    "walkTitle": "Park, then a little walk",
+    "walkText": "There’s no parking at the venue. Leave the car at the parking and enjoy a {{minutes}}-minute walk to us.",
+    "walkButton": "How to Get There",
+    "storyTitle": "See how it all started",
+    "joinUs": "Join Us",
+    "hopeYouCanMakeIt": "We hope you can make it!"
+  },
+  "story": {
+    "paragraphs": [
+      "This is where your story goes: how you met, the first date, the proposal.",
+      "Add as many paragraphs as you like."
+    ]
+  },
+  "gettingThere": {
+    "subtitle": "Park, then a {{minutes}}-minute walk",
+    "intro": "The venue can’t be reached by car. Please park at the parking below and walk the last bit.",
+    "parkTitle": "Park the car",
+    "parkingNotes": [
+      "Parking is free.",
+      "Please carpool if you can, spaces are limited."
+    ],
+    "parkButton": "Directions to Parking",
+    "mapTitle": "Map of the parking",
+    "walkTitle": "Walk about {{minutes}} minutes",
+    "walkText": "From the parking it’s an easy walk of about {{minutes}} minutes to the venue. Follow the signs we’ll put up along the path.",
+    "walkButton": "Walking Route",
+    "arriveTitle": "You’ve arrived",
+    "arriveButton": "Open in Google Maps",
+    "tipsTitle": "Good to know",
+    "tips": [
+      "Wear shoes you can walk in, or bring a pair to change into.",
+      "The way back is in the dark, so bring a torch or use your phone light.",
+      "If walking is difficult for you, let us know and we’ll arrange a drop-off at the venue."
+    ]
+  },
+  "gifts": {
+    "intro": "Having you there is the greatest gift. If you’d still like to give us something, we’d be grateful for a contribution to our honeymoon.",
+    "cardTitle": "Honeymoon Fund",
+    "accountHolder": "Account holder",
+    "iban": "IBAN",
+    "copy": "Copy IBAN",
+    "copied": "Copied!",
+    "open": "Open the envelope",
+    "close": "Close the envelope",
+    "hint": "Hover or tap the envelope to open it.",
+    "note": "Prefer something in an envelope? There will be a card box at the reception."
+  },
+  "rsvp": {
+    "subtitle": "We hope you can make it!",
+    "intro": "Please let us know if you can come.",
+    "introDeadline": "Please let us know by {{deadline}} if you can come.",
+    "formTitle": "RSVP form",
+    "loading": "Loading…",
+    "notLoading": "Form not loading?",
+    "openInNewTab": "Open it in a new tab",
+    "comingSoon": "The RSVP form will be here soon."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This page doesn’t exist.",
+    "back": "Back to Home"
+  },
+  "footer": {
+    "questions": "Questions?",
+    "emailUs": "Email Us"
+  }
+}

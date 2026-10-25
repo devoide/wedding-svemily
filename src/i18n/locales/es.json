@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "ourStory": "Nuestra historia",
+    "gettingThere": "Cómo llegar",
+    "gifts": "Regalos",
+    "rsvp": "RSVP",
+    "skipToContent": "Ir al contenido",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma"
+  },
+  "home": {
+    "gettingMarried": "¡Nos casamos!",
+    "ceremony": "Ceremonia",
+    "reception": "Celebración",
+    "walkTitle": "Aparca y da un pequeño paseo",
+    "walkText": "No se puede aparcar en el lugar. Deja el coche en el aparcamiento y disfruta de un paseo de {{minutes}} minutos hasta nosotros.",
+    "walkButton": "Cómo llegar",
+    "storyTitle": "Descubre cómo empezó todo",
+    "joinUs": "Acompáñanos",
+    "hopeYouCanMakeIt": "¡Esperamos que puedas venir!"
+  },
+  "story": {
+    "paragraphs": [
+      "Aquí va vuestra historia: cómo os conocisteis, la primera cita, la pedida.",
+      "Añadid tantos párrafos como queráis."
+    ]
+  },
+  "gettingThere": {
+    "subtitle": "Aparca y camina {{minutes}} minutos",
+    "intro": "No se puede llegar en coche hasta el lugar. Aparca en el aparcamiento que indicamos abajo y haz el último tramo a pie.",
+    "parkTitle": "Aparca el coche",
+    "parkingNotes": [
+      "El aparcamiento es gratuito.",
+      "Si puedes, comparte coche: hay pocas plazas."
+    ],
+    "parkButton": "Ruta al aparcamiento",
+    "mapTitle": "Mapa del aparcamiento",
+    "walkTitle": "Camina unos {{minutes}} minutos",
+    "walkText": "Desde el aparcamiento hay un paseo fácil de unos {{minutes}} minutos hasta el lugar. Sigue las indicaciones que pondremos en el camino.",
+    "walkButton": "Ruta a pie",
+    "arriveTitle": "¡Ya has llegado!",
+    "arriveButton": "Abrir en Google Maps",
+    "tipsTitle": "Información útil",
+    "tips": [
+      "Lleva calzado cómodo para caminar o trae un par para cambiarte.",
+      "A la vuelta ya será de noche, así que trae una linterna o usa la luz del móvil.",
+      "Si te cuesta caminar, avísanos y organizaremos que te dejen en la puerta."
+    ]
+  },
+  "gifts": {
+    "intro": "Tu presencia es nuestro mejor regalo. Si aun así quieres regalarnos algo, te agradeceremos una aportación para nuestra luna de miel.",
+    "cardTitle": "Luna de miel",
+    "accountHolder": "Titular de la cuenta",
+    "iban": "IBAN",
+    "copy": "Copiar IBAN",
+    "copied": "¡Copiado!",
+    "open": "Abrir el sobre",
+    "close": "Cerrar el sobre",
+    "hint": "Pasa el ratón por encima del sobre o tócalo para abrirlo.",
+    "note": "¿Prefieres dejar algo en un sobre? Habrá una caja para tarjetas en la celebración."
+  },
+  "rsvp": {
+    "subtitle": "¡Esperamos que puedas venir!",
+    "intro": "Por favor, dinos si puedes venir.",
+    "introDeadline": "Por favor, dinos antes del {{deadline}} si puedes venir.",
+    "formTitle": "Formulario de confirmación",
+    "loading": "Cargando…",
+    "notLoading": "¿No se carga el formulario?",
+    "openInNewTab": "Ábrelo en una pestaña nueva",
+    "comingSoon": "El formulario de confirmación estará aquí muy pronto."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "Esta página no existe.",
+    "back": "Volver al inicio"
+  },
+  "footer": {
+    "questions": "¿Preguntas?",
+    "emailUs": "Escríbenos"
+  }
+}
